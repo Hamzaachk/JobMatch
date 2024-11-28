@@ -1,1 +1,47 @@
+Job Matching Resume Parser Software
+
+Overview
+
+The Job Matching Resume Parser Software is a project developed as part of a Computer Science class. It is designed to streamline the recruitment process by analyzing resumes and identifying the most suitable candidates for specific job roles. The software utilizes natural language processing (NLP) and advanced algorithms to extract key information from resumes and match it against predefined job descriptions or requirements.
+
+Features
+
+	•	Resume Parsing: Automatically extracts candidate information such as contact details, skills, education, experience, and certifications from uploaded resumes.
+	•	Job Matching: Matches parsed resumes against job descriptions or requirements to provide ranked recommendations of suitable candidates.
+	•	Multi-format Support: Accepts resumes in various formats, including PDF, Word, and plain text.
+	•	Skill Analysis: Identifies and prioritizes candidate skills relevant to the job role.
+	•	Customizable Job Criteria: Allows recruiters to define and adjust job criteria for tailored matching.
+	•	User-friendly Interface: Simplified interface for recruiters to upload resumes, review matches, and filter results.
+
+Usage
+
+	1.	Upload Resumes:
+	•	Navigate to the upload page.
+	•	Drag and drop or select resumes in supported formats.
+
+	2.	Define Job Criteria:
+	•	Enter job title, required skills, years of experience, education level, and other key requirements.
+
+	3.	View Candidate Matches:
+	•	Review ranked candidate matches based on their suitability for the role.
+	•	Export the list of top candidates if needed.
+
+Technologies Used
+
+	•	Backend: Python, Flask/Django 
+	• AI : OpenAI
+	•	Database: MongoDB for storing parsed data
+	•	Frontend: React/Angular
+	•	Other Tools: Figma for designing the UI/UX, PyPDF2/docx2txt for file processing, LinkedIn to get CVs and Job requirements.
+
+Roadmap
+
+	•	Phase 1: Basic resume parsing and job matching
+	•	Phase 2: Improved NLP models for contextual matching
+	•	Phase 4: Advanced analytics for recruiter insights
+
+Educational Context
+
+This project was developed as part of a Computer Science class to explore real-world applications of programming, data processing, and software development methodologies. It serves as a practical demonstration of integrating theoretical knowledge with industry-relevant skills such as natural language processing and database management.
+
 Inshallaah all will be good.
